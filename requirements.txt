@@ -1,7 +1,8 @@
 fastapi
-openai
+openai==0.28
 requests
 python-dotenv
 uvicorn
 pydantic
+
 requests
